@@ -36,5 +36,3 @@ pip install pandas matplotlib seaborn plotly sklearn statsmodels wordcloud nltk
 ## Contributing
 Feel free to submit a pull request if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
